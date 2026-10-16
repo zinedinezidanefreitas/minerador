@@ -7,7 +7,7 @@ notify / set_difficulty / submit).
 Exemplos:
   python minerador.py --selftest
   python minerador.py --benchmark
-  python minerador.py --coin ltc  --url litecoinpool.org:3333 --user SUACONTA.worker1 --password x
+  python minerador.py --coin ltc  --url stratum+tcp://eu.molepool.com:2601 --user SUACONTA.worker1 --password x
   python minerador.py --coin doge --url POOL_DOGE:PORTA --user SEU_ENDERECO_DOGE.worker1 --password x
 
 Observacao: no litecoinpool.org a mineracao e "merged" - minerando LTC voce
