@@ -16,4 +16,5 @@ tambem recebe DOGE, bastando configurar o endereco Dogecoin no painel da conta.
 Requer Python 3.6+ com OpenSSL 1.1+ (hashlib.scrypt).
 
 1 git clone https://github.com/zinedinezidanefreitas/minerador.git
+
 2 cd minerador
